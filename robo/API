@@ -1,0 +1,57 @@
+#NOTE - API SERVIDOR
+
+-  Para obter o status atual do servidor:   
+https://api.crateus.net/autoatendimento/servidor/api.php?status=servidor
+
+-  Para alterar o status do servidor para "OFFLINE": 
+https://api.crateus.net/autoatendimento/servidor/api.php?status=servidor&change=OFFLINE
+
+-  Para alterar o status do servidor para "ONLINE": 
+https://api.crateus.net/autoatendimento/servidor/api.php?status=servidor&change=ONLINE
+
+-  Para alterar o status do servidor para "MANUTENÇÃO": 
+https://api.crateus.net/autoatendimento/servidor/api.php?status=servidor&change=MANUTEN%C3%87%C3%83O
+
+-  Para obter um robô da lista de robos com status "Conectar" e serem inciados:
+https://api.crateus.net/autoatendimento/delivery/api.php?robos=start
+
+-  Para encerrar robos que estão sem atividade recente:
+https://api.crateus.net/autoatendimento/delivery/api.php?robos=stop
+ 
+#NOTE - API ROBÔ
+ 
+-  Para verificar o status de um robô: 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&check=status
+ 
+-  Para alterar o status de um robô: 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88992101637&change=Conectar
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Conectar
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Aguardando
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Conectando
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Conectado 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Desconectado
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&change=Suspenso
+
+-  Para informar que o robô está em execução: 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&time=atualizar
+
+#NOTE - API QR 
+ 
+-  Para verificar o QR de um robô: 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&check=qr
+ 
+-  Para alterar o QR de um robô: 
+https://api.crateus.net/autoatendimento/delivery/api.php?robo=88997143163&qr=ddd
+
+#NOTE - WEB REQUEST RESULTS
+
+ERRO_URL            = Não foi passado todos os parametros na url
+ERRO_NULL           = O robo/servidor não existe no banco de dados
+ERRO_CHANGE         = Não foi possível alterar o status
+ERRO_CHANGE_INVALID = Status informado é invalido
+SUCESS_CHANGE       = Status alterado com sucesso
+ERRO_SERV           = Servidor Offline ou em Manutenção 
+SUCESS_QR           = QR atualizado com sucesso
+ERRO_QR             = Não foi possível atualizar o QR
+
+ 

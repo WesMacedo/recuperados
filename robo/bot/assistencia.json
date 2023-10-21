@@ -1,0 +1,46 @@
+{
+    "SAUDAÇÃO": {
+        "palavra_chave": ["oi","olá","Bom dia","Boa tarde","Boa noite"],
+        "acao_1":"",
+        "acao_2":"",
+        "acao_3":"",
+        "resposta": "Olá, {saudacao}",
+        "resposta_2":"Seja bem-vindo(a) ao nosso auto-atendimento! 🤖 No que posso ajudar?",
+        "resposta_3":"Para conferir o nosso cardápio ou realizar um pedido, acesse o link 👇\nhttps://delivery.crateus.net/cardapio\n\n💬 Dica: caso não esteja conseguindo clicar no link do cardápio, é só *adicionar* o nosso número nos seus *contatos*! "
+         
+      }, 
+      "MENU": {
+        "palavra_chave": ["MENU"], 
+        "resposta": "Desculpe {clientName}! 😕 Fiquei confuso sobre o que você deseja.\nVeja algumas opções que eu consigo te auxiliar:",
+        "resposta_2":"- Pedido\n- Orçamento\n- Horário de funcionamento\n- Nosso endereço\n- Falar com atendente",
+        "resposta_3":""
+         
+      },
+      "HORARIO_DE_FUNCIONAMENTO": {
+        "palavra_chave": ["horario","atendendo","funcionando","funcionamento"],
+        "acao_1":"",
+        "acao_2":"",
+        "acao_3":"",
+        "resposta": "Confira abaixo nossos horários de funcionamento:\n\n{horarios}.",
+        "resposta_2":"",
+        "resposta_3":""
+      },
+      "ENDEREÇO": {
+        "palavra_chave": ["localizaçao","localizacao","endereço","endereco","local","retirada","retirar","buscar"],
+        "acao_1":"",
+        "acao_2":"",
+        "acao_3":"",
+        "resposta": "Esse aqui é o nosso endereço {clientName}:\n\n📍{endereco}.",
+        "resposta_2":"",
+        "resposta_3":""
+      },
+      "ATENDENTE": {
+        "palavra_chave": ["atendente","atender","funcionario"],
+        "acao_1":"",
+        "acao_2":"",
+        "acao_3":"",
+        "resposta":  "Certo! *Já chamei alguém* para dar continuidade ao seu atendimento. 😉",
+        "resposta_2":"Por favor, aguarde só um instante que ele(a) já está vindo...",
+        "resposta_3":""
+      }  
+  }

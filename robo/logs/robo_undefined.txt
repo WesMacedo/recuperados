@@ -1,0 +1,238 @@
+[ 14/07/2023, 14:12:43 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:12:43 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:12:43 ]: QR do robô atualizado para 2%40DpoM3LWztLX2tcCa8P56sVA%2Bogu%2Bqo%2BDh%2F2SvFLvY3S8312vWGBgq6nMQpESpQ1gfGNCccNV2HhdEQ%3D%3D%2CYcywHiEW4MJvrnkD8Ecp%2Fz2OjsaAqRXQOm2VTxqZNUI%3D%2CjK%2Bdt9IhjEaHaZt7bFfIQAlNpvvmNhFnNcu3%2FNU%2F2g4%3D%2C1RGI8gXFq3QxQwh0TxtMu%2F8mmN0sLhfx1jVywiyzidU%3D.
+[ 14/07/2023, 14:12:52 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:12:53 ]: QR do robô atualizado para 2%40%2BlfQTaKdTUc%2BHIEQTCP8wNloY3wtVAlAcFLv%2BVV6GMgH7gycijtxM0xyP3YJOQ34ZcDv1ZENztuWlQ%3D%3D%2CTBMs%2BrmXuSmqFjNs6e0gQ2LGxDJbd5TyPzgguy8PvR0%3D%2CREhreN1PNZwbBZMCphJ6hLu6OtWHdUmb4ppojQoB0Vw%3D%2ClCdZ60Dbon%2Bb0tNXeXNkHk2xZTZJNr1hu%2F49nzMoci0%3D.
+[ 14/07/2023, 14:12:53 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:13:53 ]: QR do robô atualizado para 2%40jW4eCTIgc%2BMXitCWV%2BNkldBNUm455bYX46KUXe3kDIccdAzsvXZGi6QhSHdnm%2F7I3bq0tx10JcdGgQ%3D%3D%2CTBMs%2BrmXuSmqFjNs6e0gQ2LGxDJbd5TyPzgguy8PvR0%3D%2CREhreN1PNZwbBZMCphJ6hLu6OtWHdUmb4ppojQoB0Vw%3D%2ClCdZ60Dbon%2Bb0tNXeXNkHk2xZTZJNr1hu%2F49nzMoci0%3D.
+[ 14/07/2023, 14:14:00 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:14:00 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:14:00 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:14:01 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:14:01 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:14:02 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:14:03 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:16:17 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:17 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:16:17 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:18 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:16:18 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:19 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:56 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:57 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:57 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:16:57 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:16:57 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:16:58 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:18:53 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:18:54 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:18:54 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:18:54 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:18:54 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:18:55 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:39:20 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:20 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:39:20 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:20 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:21 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:39:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:34 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:39:34 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:34 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:39:34 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:35 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:39:36 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:40:06 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:40:06 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:40:06 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:40:07 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:40:07 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:40:08 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:41:17 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:41:17 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:41:18 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:41:18 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:41:18 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:41:18 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:13 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:13 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:42:14 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:14 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:14 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:15 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:42:21 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:42:22 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:22 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:42:22 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:23 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:42:23 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:49:36 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:49:37 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:49:37 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:49:37 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:49:37 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:49:38 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:56:20 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:56:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:56:21 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:56:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:56:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:56:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:00 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:01 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:57:01 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:01 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:02 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:02 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:57:40 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:57:42 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:57:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:57:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:17 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:58:18 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:18 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:58:19 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:19 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:21 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:41 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:58:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:42 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 14:58:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:58:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:59:49 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:59:50 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:59:50 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:59:50 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 14:59:50 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 14:59:51 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:02:42 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:02:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:02:42 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:02:43 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:02:45 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:02:46 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:04:41 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:04:41 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:04:43 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:04:43 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:04:43 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:04:43 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:05:12 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:13 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:13 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:14 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:05:14 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:16 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:05:28 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:05:28 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:28 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:28 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:29 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:05:29 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:06:52 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:06:52 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:06:53 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:06:53 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:06:53 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:06:54 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:08:01 ]: Status do robô alterado para Conectando.
+[ 14/07/2023, 15:08:02 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:08:02 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:08:02 ]: QR do robô atualizado para undefined.
+[ 14/07/2023, 15:08:02 ]: Status do robô alterado para Conectado.
+[ 14/07/2023, 15:08:03 ]: QR do robô atualizado para undefined.
+[ 12/09/2023, 10:52:36 ]: Erro ao alterar o status do robô para Conectando.
+[ 12/09/2023, 10:52:36 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:52:37 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:52:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:52:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:37 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:53:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:53:56 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:54:06 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:16 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:54:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:36 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:36 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:36 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:54:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:54:57 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:55:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:17 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:55:17 ]: Erro ao alterar o status do robô para Conectando.
+[ 12/09/2023, 10:55:17 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:55:17 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:55:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:55:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:17 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:56:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:37 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:56:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:56:57 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:57:06 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:17 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:57:26 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:36 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:37 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:57:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:57:57 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:57:57 ]: Erro ao alterar o status do robô para Conectando.
+[ 12/09/2023, 10:57:57 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:57:58 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:58:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:45 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:58:58 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:59:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:18 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:59:25 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:36 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:38 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 10:59:46 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:55 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 10:59:58 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 11:00:05 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:15 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:18 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 11:00:26 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:35 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:38 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 11:00:38 ]: Erro ao alterar o status do robô para Conectando.
+[ 12/09/2023, 11:00:38 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 11:00:39 ]: Erro ao atualizar o QR do robô.
+[ 12/09/2023, 11:00:46 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
+[ 12/09/2023, 11:00:56 ]: Erro ao obter status do robo: getaddrinfo ENOTFOUND api.crateus.net
