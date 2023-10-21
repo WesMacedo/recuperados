@@ -1,0 +1,87 @@
+[28-Jun-2023 16:45:26 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 /home/evolute1/api.crateus.net/mp/public/payment/create.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 16:47:38 America/Sao_Paulo] PHP Warning:  Undefined array key "point_of_interaction" in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 82
+[28-Jun-2023 16:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 82
+[28-Jun-2023 16:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 87
+[28-Jun-2023 16:47:38 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 88
+[28-Jun-2023 16:48:00 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 /home/evolute1/api.crateus.net/mp/public/payment/create.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 16:48:08 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 /home/evolute1/api.crateus.net/mp/public/payment/create.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 16:48:16 America/Sao_Paulo] PHP Warning:  Undefined array key "point_of_interaction" in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 82
+[28-Jun-2023 16:48:16 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 82
+[28-Jun-2023 16:48:16 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 87
+[28-Jun-2023 16:48:16 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 88
+[28-Jun-2023 16:48:36 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 /home/evolute1/api.crateus.net/mp/public/payment/create.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 16:48:44 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 /home/evolute1/api.crateus.net/mp/public/payment/create.php(37): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 16:48:56 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/evolute1/api.crateus.net/mp/public/payment/create.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/evolute1/api.crateus.net/mp/public/payment/create.php on line 37
+[28-Jun-2023 19:25:40 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 19:45:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 19:45:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 20:50:34 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 21:20:30 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 21:20:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[28-Jun-2023 21:31:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 12:31:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 12:31:16 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 12:51:02 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 13:25:58 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:26:09 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:26:10 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:35:54 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:35:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:46:40 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 14:55:37 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 15:20:35 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 15:30:35 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 19:30:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 21:26:19 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[29-Jun-2023 21:35:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[30-Jun-2023 19:51:11 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[30-Jun-2023 19:51:11 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[30-Jun-2023 20:55:46 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[30-Jun-2023 21:26:36 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[01-Jul-2023 19:36:23 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[01-Jul-2023 21:30:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[01-Jul-2023 21:40:15 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[04-Jul-2023 19:57:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[04-Jul-2023 19:57:24 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[04-Jul-2023 21:03:08 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[04-Jul-2023 21:30:35 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[05-Jul-2023 19:42:03 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[05-Jul-2023 21:36:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[05-Jul-2023 21:46:28 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[08-Jul-2023 20:00:50 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[08-Jul-2023 20:01:32 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[08-Jul-2023 21:05:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[08-Jul-2023 21:36:51 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[09-Jul-2023 19:46:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[09-Jul-2023 21:40:31 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[09-Jul-2023 21:50:23 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[12-Jul-2023 20:07:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[12-Jul-2023 20:07:41 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[12-Jul-2023 21:12:00 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[12-Jul-2023 21:41:55 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[13-Jul-2023 19:51:23 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[13-Jul-2023 21:47:35 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
+[13-Jul-2023 21:57:34 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in /home/evolute1/api.crateus.net/mp/public/payment/notification.php on line 49
